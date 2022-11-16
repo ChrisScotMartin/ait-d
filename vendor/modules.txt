@@ -1,0 +1,9 @@
+# github.com/ChrisScotMartin/ait-a v0.0.0-20221116192209-4b7b63887b4f
+## explicit
+github.com/ChrisScotMartin/ait-a
+github.com/ChrisScotMartin/ait-a/pkgmoda
+# github.com/ChrisScotMartin/ait-b v0.0.6
+github.com/ChrisScotMartin/ait-b
+# github.com/ChrisScotMartin/ait-c v0.0.1
+## explicit
+github.com/ChrisScotMartin/ait-c/pkgmodc
